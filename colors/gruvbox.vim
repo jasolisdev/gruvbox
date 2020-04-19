@@ -101,19 +101,19 @@ let s:gb.gray_244    = ['#928374', 244]     " 146-131-116
 let s:gb.light0_hard = ['#f9f5d7', 230]     " 249-245-215
 let s:gb.light0      = ['#fbf1c7', 229]     " 253-244-193
 let s:gb.light0_soft = ['#f2e5bc', 228]     " 242-229-188
-let s:gb.light1      = ['#ebdbb2', 223]     " 235-219-178
+let s:gb.light1      = ['#B7A984', 223]     " 235-219-178
 let s:gb.light2      = ['#d5c4a1', 250]     " 213-196-161
 let s:gb.light3      = ['#bdae93', 248]     " 189-174-147
 let s:gb.light4      = ['#a89984', 246]     " 168-153-132
 let s:gb.light4_256  = ['#a89984', 246]     " 168-153-132
 
-let s:gb.bright_red     = ['#fb4934', 167]     " 251-73-52
-let s:gb.bright_green   = ['#b8bb26', 142]     " 184-187-38
-let s:gb.bright_yellow  = ['#fabd2f', 214]     " 250-189-47
-let s:gb.bright_blue    = ['#83a598', 109]     " 131-165-152
-let s:gb.bright_purple  = ['#d3869b', 175]     " 211-134-155
-let s:gb.bright_aqua    = ['#8ec07c', 108]     " 142-192-124
-let s:gb.bright_orange  = ['#fe8019', 208]     " 254-128-25
+let s:gb.bright_red     = ['#A54A42', 167]     " 251-73-52
+let s:gb.bright_green   = ['#7F7F4C', 142]     " 184-187-38
+let s:gb.bright_yellow  = ['#CCA751', 214]     " 250-189-47
+let s:gb.bright_blue    = ['#78998C', 109]     " 131-165-152
+let s:gb.bright_purple  = ['#B27283', 175]     " 211-134-155
+let s:gb.bright_aqua    = ['#719963', 108]     " 142-192-124
+let s:gb.bright_orange  = ['#d79921', 208]     " 254-128-25
 
 let s:gb.neutral_red    = ['#cc241d', 124]     " 204-36-29
 let s:gb.neutral_green  = ['#98971a', 106]     " 152-151-26
